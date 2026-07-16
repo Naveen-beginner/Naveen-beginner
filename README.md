@@ -82,24 +82,6 @@ Workout application with no-equipment exercises.
 
 ---
 
-## 🔥 GitHub Streak
-
-(Add Streak Stats)
-
----
-
-## 🏆 GitHub Trophies
-
-(Add Trophy Badge)
-
----
-
-## 📈 Activity Graph
-
-(Add Activity Graph)
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced Flutter
