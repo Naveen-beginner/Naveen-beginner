@@ -1,13 +1,119 @@
-- 👋 Hi, I’m @Naveen-beginner
-- 👀 I’m interested in Website Development 
-- 🌱 I’m currently learning Backend 
-- 💞️ I’m looking to collaborate on with small businesses to build tgeir online presence and my strong portfolio
-- 📫 You can reach out to me through my mail
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Just a curious mind with a keyboard and way too many side projects.
-![1000037679](https://github.com/user-attachments/assets/38633573-cf92-46f8-ba68-d7289ef22574)
+# Hi there 👋, I'm Naveen
 
-<!---
-Naveen-beginner/Naveen-beginner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Flutter Developer • Web Developer • Backend Developer • Open Source Contributor
+
+I build scalable mobile applications with Flutter and robust backend APIs using Node.js. I enjoy creating developer tools, contributing to open source, and solving real-world problems through technology.
+
+---
+
+## 🚀 About Me
+
+- 📱 Flutter & Dart Developer
+- ⚙️ Node.js, Express & MongoDB
+- 🌐 REST API Design
+- 🎯 Currently learning TypeScript, Angular & AI
+- 💡 Love building products from idea to deployment
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Dart
+- JavaScript
+- TypeScript
+- Python
+- C++
+
+### Mobile
+- Flutter
+- Android
+
+### Web
+- HTML5
+- CSS3
+- JS
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT Authentication
+
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+- Android Studio
+
+---
+
+## 📌 Featured Projects
+
+### 🔐 SecureForm Kit
+Reusable validation library for JavaScript applications.
+
+**Tech:** JavaScript, npm
+
+⭐ npm package
+
+---
+
+### 📚 Focus Study
+
+A productivity app featuring:
+
+- Task Management
+- Focus Timer
+- Notes
+- Streak Tracking
+
+**Tech:** Flutter, Hive
+
+---
+
+### 💪 FitCore
+
+Workout application with no-equipment exercises.
+
+**Tech:** Flutter
+
+---
+
+## 🔥 GitHub Streak
+
+(Add Streak Stats)
+
+---
+
+## 🏆 GitHub Trophies
+
+(Add Trophy Badge)
+
+---
+
+## 📈 Activity Graph
+
+(Add Activity Graph)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Flutter
+- DSA
+- AI & Machine Learning
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn
+- Portfolio
+- Email
+
+---
+
+> "Building products that solve real problems."
