@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Naveen
 
-### Flutter Developer • Web Developer • Backend Developer • Open Source Contributor
+### Flutter Developer • Web Developer • Backend Developer • Open Source Contributor • App Publsiher on Playstore • Extensions Publisher on Chrome • NPM package publisher • Student & The Underrated Developer
 
 I build scalable mobile applications with Flutter and robust backend APIs using Node.js. I enjoy creating developer tools, contributing to open source, and solving real-world problems through technology.
 
