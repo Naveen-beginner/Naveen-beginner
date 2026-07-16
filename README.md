@@ -1,82 +1,107 @@
 # Hi there 👋, I'm Naveen
 
-### Flutter Developer • Web Developer • Backend Developer • Open Source Contributor • App Publsiher on Playstore • Extensions Publisher on Chrome • NPM package publisher • Student & The Underrated Developer
+### 🚀 Flutter & Full Stack Developer | Open Source Contributor | Building products that people use.
 
-I build scalable mobile applications with Flutter and robust backend APIs using Node.js. I enjoy creating developer tools, contributing to open source, and solving real-world problems through technology.
+I'm a Computer Science student passionate about building high-quality mobile and web applications. I enjoy designing clean user experiences, developing scalable backend systems, publishing developer tools, and contributing to the open-source community.
+
+📱 Published Android Apps • 🌐 Chrome Extension Developer • 📦 npm Package Publisher • 💻 The Underrated Developer
+
+---
+
+## 🌐 Connect with Me
+
+🌍 **Portfolio:** https://devfrnd.netlify.app
+
+💼 **LinkedIn:** www.linkedin.com/in/naveen-chandra-kowshik-31a4b63a3
+
+📧 **Personal Email:** mailto:rakurthikowshik@gmail.com
+
+📧 **Developer Email:** mailto:devfrnd993@gmail.com
+
+👨‍💻 **Google Developer Profile:**(https://me.developers.google.com/u/latecomer)
 
 ---
 
 ## 🚀 About Me
 
 - 📱 Flutter & Dart Developer
-- ⚙️ Node.js, Express & MongoDB
-- 🌐 REST API Design
-- 🎯 Currently learning TypeScript, Angular & AI
-- 💡 Love building products from idea to deployment
+- 🌐 Frontend Web Developer
+- ⚙️ Backend Developer (Node.js, Express & MongoDB)
+- 🔐 Passionate about API Design & Authentication
+- 📦 Open Source Package Author
+- 📚 Always learning new technologies
+- 💡 I love turning ideas into production-ready applications.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
+
 - Dart
 - JavaScript
 - TypeScript
 - Python
-- C++
+- Learning C++
 
-### Mobile
+### 📱 Mobile
+
 - Flutter
 - Android
 
-### Web
+### 🌐 Frontend
+
 - HTML5
 - CSS3
-- JS
+- JavaScript
 
-### Backend
+### ⚙️ Backend
+
 - Node.js
 - Express.js
 - MongoDB
 - Mongoose
 - JWT Authentication
+- REST APIs
 
-### Tools
+### 🛠 Tools
+
 - Git
 - GitHub
-- Postman
 - VS Code
 - Android Studio
+- Postman
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🔐 SecureForm Kit
-Reusable validation library for JavaScript applications.
+## 🔐 SecureForm Kit
 
-**Tech:** JavaScript, npm
+A lightweight npm package that simplifies form validation for JavaScript applications.
 
-⭐ npm package
-
----
-
-### 📚 Focus Study
-
-A productivity app featuring:
-
-- Task Management
-- Focus Timer
-- Notes
-- Streak Tracking
-
-**Tech:** Flutter, Hive
+**Tech:** JavaScript • npm
 
 ---
 
-### 💪 FitCore
+## 📚 Focus Study
 
-Workout application with no-equipment exercises.
+A productivity application designed for students.
+
+### Features
+
+- 📅 Task Management
+- ⏳ Focus Timer
+- 📝 Notes
+- 🔥 Daily Streaks
+
+**Tech:** Flutter • Hive
+
+---
+
+## 💪 FitCore
+
+A clean and modern workout application featuring no-equipment exercise routines.
 
 **Tech:** Flutter
 
@@ -84,18 +109,27 @@ Workout application with no-equipment exercises.
 
 ## 🌱 Currently Learning
 
-- Advanced Flutter
-- DSA
-- AI & Machine Learning
+- Angular
+- Advanced Flutter Architecture
+- Data Structures & Algorithms
+- Artificial Intelligence
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 2026 Goals
 
-- LinkedIn
-- Portfolio
-- Email
+- 🚀 Build impactful open-source projects
+- 📱 Publish more production-ready applications
+- ⭐ Contribute to major open-source repositories
+- 💼 Prepare for Software Engineering internships
+- 🌍 Grow as a Multi Stack Developer (Mobile, Web, AI)
 
 ---
 
-> "Building products that solve real problems."
+## 🤝 Let's Build Something Amazing
+
+If you'd like to collaborate on a project, discuss Flutter, backend development, or open source, feel free to reach out.
+
+⭐ Thanks for visiting my profile!
+
+> *"Building products that solve real problems, one commit at a time."*
