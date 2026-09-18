@@ -255,8 +255,11 @@ Whether it's an interesting product idea, an open-source project, developer tool
 ---
 
 <p align="center">
+    
 ### 💭 Build things worth using.
-*Still learning. Still building. Still shipping.*
+
+* Still learning. Still building. Still shipping. *
+
 </p>
 
 <p align="center">
