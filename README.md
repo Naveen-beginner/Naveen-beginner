@@ -153,8 +153,8 @@ That's why I'm constantly moving between **application development, backend engi
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-beginner&show_icons=true&hide_border=true&theme=transparent" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-beginner&layout=compact&hide_border=true&theme=transparent" height="165">
 </p>
 
 <p align="center">
