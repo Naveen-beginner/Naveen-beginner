@@ -198,12 +198,12 @@ I'm especially interested in the intersection of **software engineering and AI**
 # 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-beginner&show_icons=true&hide_border=true&theme=transparent" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-beginner&layout=compact&hide_border=true&theme=transparent" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-beginner&show_icons=true&hide_border=true&theme=transparent" height="165" alt="Naveen's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-beginner&layout=compact&hide_border=true&theme=transparent" height="165" alt="Naveen's Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent">
+  <img src="https://streak-stats.demolab.com?user=Naveen-beginner&hide_border=true&theme=transparent">
 </p>
 
 ---
@@ -251,6 +251,8 @@ Whether it's an interesting product idea, an open-source project, developer tool
 📧 **Personal:** [rakurthikowshik@gmail.com](mailto:rakurthikowshik@gmail.com)
 
 🌐 **Website:** https://underrateddev.com
+
+---
 
 <p align="center">
   <i>Still learning. Still building. Still shipping.</i>
