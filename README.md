@@ -252,11 +252,9 @@ Whether it's an interesting product idea, an open-source project, developer tool
 
 🌐 **Website:** https://underrateddev.com
 
-<p align="center">
-
-<b>*Still learning. Still building. Still shipping.*</b>
-
-</p>
+<h3 align="center">
+  <i>Still learning. Still building. Still shipping.</i>
+</h3>
 
 <p align="center">
   <sub>© Naveen Chandra Kowshik</sub>
