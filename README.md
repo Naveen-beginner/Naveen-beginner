@@ -252,11 +252,9 @@ Whether it's an interesting product idea, an open-source project, developer tool
 
 🌐 **Website:** https://underrateddev.com
 
----
-
 <p align="center">
 
-*Still learning. Still building. Still shipping.*
+<b>*Still learning. Still building. Still shipping.*</b>
 
 </p>
 
